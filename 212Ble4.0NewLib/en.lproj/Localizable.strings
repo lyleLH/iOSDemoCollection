@@ -1,0 +1,111 @@
+/*
+ Localizable.strings
+ 212B_New
+ 
+ Created by 梁科 on 14-12-25.
+ Copyright (c) 2014年 castel. All rights reserved.
+ */
+
+"初始化函数测试" = "Initialization function test";
+"控制函数测试" = "Control function test";
+"监控函数测试" = "Monitoring function testing";
+"参数设置函数测试" = "Parameter Settings function test";
+"查询函数测试" = "Query function test";
+"业务数据交互函数测试" = "Business data function test";
+
+
+"报警使能" =  "alarm enable";
+"报警响声" = "beep enable";
+"告警阀值" = "alarm threshold";
+"超速告警阀值范围为：0-300" = "the threshold range of speeding: 0-300";
+"低电压告警阀值范围为：9-36" ="the threshold range of low voltage: 9-36";
+"水温告警阀值范围为：0-240" ="the threshold range of High engine coolant temperature: 0-240";
+"急加速告警阀值范围为：0.2-0.8" = "the threshold range of hard acceleration: 0.2-0.8";
+"急减速告警阀值范围为：0.3-1.0" = "the threshold range of hard deceleration: 0.3-1.0";
+"停车未熄火告警阀值范围为：1-30" = "the threshold range of idle engine: 1-30";
+"拖吊告警阀值范围为：固定为 15" ="the threshold range of towing fixed as 15";
+"转速高告警阀值范围为：0-10000" = "the threshold range of high RPM: 0-10000";
+"上电告警阀值范围为：固定为 0" = "the threshold range of power on fixed as 0";
+"尾气超标告警阀值范围为：固定为 0" = "the threshold range of Exhaust Emission fixed as 0";
+"急变道告警阀值范围为：0.2-0.8" = "the threshold range of quick lane change: 0.2-0.8";
+"急转弯告警阀值范围为：0.3-0.9" = "the threshold range of sharp turn: 0.3-0.9";
+"疲劳驾驶告警阀值范围为：0-8" = "the threshold range of Fatigue driving:0-8";
+"碰撞告警阀值范围为：1.0-2.0" = "the threshold range of crash: 1.0-2.0";
+
+"提示" = "Prompt";
+"确定" = "OK";
+"返回"  = "Back";
+"请输入报警阀值" = "Please input the threshold for alarms";
+"输入过长，请重新输入" = "It's over the range, please re-input";
+
+"GPRS数据开关" = "GPRS switch";
+"OBD工况数据开关" = "OBD switch";
+"G-Sensor数据开关" = "G-Sensor switch";
+"固定上传时间间隔" = "Fixed upload time interval";
+"工况数据采集时间间隔" = "PID sampled time interval";
+"工况数据采集类型" = "PID sampled types";
+"多个类型请以逗号隔开" = "Separated by commas If for multiple types";
+
+"请输入排量" = "Please input engine capacity";
+"请输入燃油类型" = "Please input fuel type";
+"请输入车牌号" = "Please input vehicle plate";
+"输入非法" = "Input Is illegal";
+"请输入序列号" = "Please input serial number";
+"请输入RTC时间" = "Please input RTC time";
+"请输入发动机熄火延时判断时间" = "Please input engine off delay time";
+"油耗参数：" ="Fuel consumption parameters";
+
+"排量" = "Engine capacity";
+"燃油类型" = "Fuel type";
+"设置油耗" = "Set fuel consumption";
+"车牌" = "Vehicle plate";
+"设置车牌" = "Set vehicle plate";
+"序列号" = "Serial number";
+"设置序列号" = "Set serial number";
+"RTC时间" = "RTC Time";
+"设置RTC时间" = "Set RTC time";
+"发动机熄火延时" = "Engine off delay time";
+"设置延时" = "Set engine off delay time";
+"上次保存的设备ID为空，不能初始化，是否手动输入新的" = "Can't be initialization because the ID saved is empty last time, if input the new ID by manual";
+"上次保存的dataNum为空，不能初始化，是否手动输入新的" = "Can't be initialization because the dataNum saved is empty last time, if input the new dataNum by manual";
+
+"初始化失败" = "Initialization failed";
+"初始化成功" = "Initialization successful";
+"清除DTC数据" = "Clear DTC";
+"清空OBD数据区" = "Clear OBD data buffer";
+"重置OBD设备" = "Rest OBD";
+"恢复出厂设置" = "Restore to factory settings";
+"开始监控" = "Start to monitor";
+"请选择参数类型" = "Please select parameter type";
+"超速告警" = "Speeding";
+"低电压告警" = "Low voltage";
+"水温告警" = "High engine coolant temperature";
+"急加速告警" = "Hard acceleration";
+"急减速告警" = "Hard deceleration";
+"停车未熄火告警" = "Idle engine";
+"拖吊告警" = "Towing";
+"转速高告警" = "High RPM";
+"上电告警" = "Power on";
+"尾气超标告警" = "Exhaust Emission";
+"急变道告警" = "Quick Lane change";
+"急转弯告警" = "Sharp turn";
+"疲劳驾驶告警" = "Fatigue driving";
+"碰撞告警" = "Crash";
+"告警类参数" = "Alarm parameters";
+"固定上传类参数" = "Fixed Up parameters";
+"其它类参数" = "Other parameters";
+"查询告警参数" = "Query alarm parameters";
+"查询固定上传参数" = "Query fixed upload parameters";
+"查询油耗参数" = "Query fuel consumption parameters";
+"查询车牌号" = "Query vehicle plate";
+"查询终端序列号" = "Query device serial number";
+"查询终端RTC时间" = "Query Terminal RTC time";
+"查询系统提示音状态" = "Query system beep status";
+"查询发动机熄火延时判断" = "Query engine off delay time";
+"查询车辆VIN码"  = "Query vehicle VIN code";
+"查询软硬件版本" = "Query firmware and hardware version";
+"查询车辆支持的OBD数据流" = "Query vehicle supported OBD data flow";
+"查询到的车牌号为:" = "The queried vehicle plate is";
+"只查看固定上传" = "Query fixed upload";
+"只查看工况数据" = "Query OBD data";
+"查看所有接收的数据" = "Query all received data";
